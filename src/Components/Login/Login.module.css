@@ -1,0 +1,12 @@
+.login{
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+    padding: 5px;
+}
+
+.errorMessage{
+    color:red;
+}
