@@ -1,9 +1,9 @@
-import React from "react";
+import React, { FC } from "react";
 import { useState } from "react";
 import style from "./Paginator.module.css";
 
 
-    // type TypeProps = {
+    // type PropsType = {
     //     totalUsersCounts: number,
     //     pageSize: number,
     //     currentPage: number,
